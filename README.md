@@ -46,4 +46,4 @@ This project entails the creation of a comprehensive dashboard utilizing Power B
 The development of this dashboard was inspired by industry best practices and tailored to meet the specific needs of credit card issuers and financial institutions.
 
 ## Contact
-For inquiries or assistance with Power BI dashboard development, please contact [Your Email Address].
+For inquiries or assistance with Power BI dashboard development, please contact Hassan.malik1574@gmail.com.
